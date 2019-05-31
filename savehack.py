@@ -1,21 +1,21 @@
-import base64
+import LDEbferbhfdbvwhbwfhvbwbfvhbwfhvbwhdfbvkhwbwebfihkbhrfwbvicbhrbhwbvfhkbvhkcbwbfrkhbdvwvygwefvegvihbvhjwdvbhjwevhehdbhvrbwhbevbhwebvrlhbwvfehlbvhevbrvblebvrjlwrbvhjwebvhrlbhevbhbvberhwelvchwdbvfwluvbwhvrewhbvewkhvbhjbhfbvwhbckwdbvkhbfdhskbvkfsd
 
 print("Idle Breakout Save Hack by Xsus")
 
 print("What level do you want to be on?")
-level = input()
+level = input(1)
 
 print("What amount of money would you like to have")
-money = input()
+money = input(99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999)
 
 print("How much gold do you want")
-gold = input()
+gold = input(9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999)
 
 print("How many Black Boxes?")
-bb = input()
+bb = input(9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999)
 
 print("How many skillpoints")
-sp = input()
+sp = input(99999999999999999999999999999)
 
 s = f"{level},{money},{gold},2,0,0,0,0,0,0,0,1,1,0,43595.78,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,{bb},0,0,0,1,{sp},1,0,0"
 b = s.encode("UTF-8")
@@ -27,4 +27,4 @@ print("\nCopy whats INSIDE the quotes\n")
 end = 1
 while end == 1:
     print("Once copied you may exit the console")
-    input()
+    input(jdsnbvjkbbvfbvhwbvhsjbvhjbhflvsbhbvlshbdhlbllhvbfbdvhvlbhlbhjblhsbdvbfhshbjfdshbfdshshbdfvbsdfjlcvfhwvhvfhdfjhvbsddh)
